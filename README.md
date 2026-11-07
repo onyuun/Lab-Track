@@ -1,25 +1,3 @@
-# LabTrack
-
-LabTrack is an app that streamlines the borrowing and returning of lab
-materials for students, faculty, and staff.
-
-## Status
-
-This project is in early development. Features and scope are still being
-defined and will evolve as the project is built.
-
-## Tech Stack
-
-_To be decided._
-
-## Getting Started
-
-_Setup instructions coming soon._
-
-## Contributing
-
-_Contribution guidelines coming soon._
-
-## License
-
-_To be decided._
+LabTrack is a web app for managing laboratory equipment and borrowing.
+Students and Faculty can browse available equipment, submit borrowing requests, and track their requests. Laboratory Personnel manage equipment, approve requests, release items, and record returns or incidents. Admins manage user access requests for Faculty and Laboratory Personnel.
+The app stores its accounts and records in Supabase.
