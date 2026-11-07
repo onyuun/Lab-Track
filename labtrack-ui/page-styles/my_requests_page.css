@@ -1,0 +1,6 @@
+/* Page-specific styles for My requests. Shared components live in ../styles.css. */
+body.my_requests_page .page-heading {
+  /* Keep the page identity easy to adjust without changing shared layout. */
+}
+body.my_requests_page .page-heading .eyebrow { color: var(--teal-dark); }
+body.my_requests_page .request-card { border-left: 3px solid var(--teal); }

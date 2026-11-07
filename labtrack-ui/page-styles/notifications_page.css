@@ -1,0 +1,6 @@
+/* Page-specific styles for Notifications. Shared components live in ../styles.css. */
+body.notifications_page .page-heading {
+  /* Keep the page identity easy to adjust without changing shared layout. */
+}
+body.notifications_page .page-heading .eyebrow { color: var(--teal-dark); }
+body.notifications_page .page-heading h1 { letter-spacing: -1.35px; }

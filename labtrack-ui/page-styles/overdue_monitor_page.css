@@ -1,0 +1,6 @@
+/* Page-specific styles for Overdue monitoring. Shared components live in ../styles.css. */
+body.overdue_monitor_page .page-heading {
+  /* Keep the page identity easy to adjust without changing shared layout. */
+}
+body.overdue_monitor_page .page-heading .eyebrow { color: var(--teal-dark); }
+body.overdue_monitor_page .panel-head h2 { color: var(--navy-900); }
