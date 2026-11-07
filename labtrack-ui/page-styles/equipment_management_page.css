@@ -1,0 +1,6 @@
+/* Page-specific styles for Equipment management. Shared components live in ../styles.css. */
+body.equipment_management_page .page-heading {
+  /* Keep the page identity easy to adjust without changing shared layout. */
+}
+body.equipment_management_page .page-heading .eyebrow { color: var(--teal-dark); }
+body.equipment_management_page .equipment-card { min-height: 100%; }

@@ -1,0 +1,6 @@
+/* Page-specific styles for Login. Shared components live in ../styles.css. */
+body.login_page .page-heading {
+  /* Keep the page identity easy to adjust without changing shared layout. */
+}
+body.login_page .page-heading .eyebrow { color: var(--teal-dark); }
+body.login_page .login-card { border-top: 3px solid var(--teal); padding-top: 20px; }
