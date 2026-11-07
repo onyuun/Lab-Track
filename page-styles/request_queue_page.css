@@ -1,0 +1,6 @@
+/* Page-specific styles for Request queue. Shared components live in ../styles.css. */
+body.request_queue_page .page-heading {
+  /* Keep the page identity easy to adjust without changing shared layout. */
+}
+body.request_queue_page .page-heading .eyebrow { color: var(--teal-dark); }
+body.request_queue_page .request-card { border-left: 3px solid var(--teal); }

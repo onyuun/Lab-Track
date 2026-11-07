@@ -1,0 +1,19 @@
+{
+  "routes": [
+    { "path": "/", "title": "LabTrack login" },
+    { "path": "/mobile.html", "title": "LabTrack mobile web" },
+    { "path": "/dashboard", "title": "Dashboard" },
+    { "path": "/catalog", "title": "Equipment catalog" },
+    { "path": "/request", "title": "New borrowing request" },
+    { "path": "/requests", "title": "My requests" },
+    { "path": "/history", "title": "Borrowing history" },
+    { "path": "/notifications", "title": "Notifications" },
+    { "path": "/staff", "title": "Staff dashboard" },
+    { "path": "/staff/queue", "title": "Request queue" },
+    { "path": "/staff/equipment", "title": "Equipment management" },
+    { "path": "/staff/processing", "title": "Release and return processing" },
+    { "path": "/staff/overdue", "title": "Overdue monitoring" },
+    { "path": "/staff/records", "title": "Records and reports" },
+    { "path": "/staff/conditions", "title": "Condition log" }
+  ]
+}

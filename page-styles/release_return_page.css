@@ -1,0 +1,6 @@
+/* Page-specific styles for Release and return processing. Shared components live in ../styles.css. */
+body.release_return_page .page-heading {
+  /* Keep the page identity easy to adjust without changing shared layout. */
+}
+body.release_return_page .page-heading .eyebrow { color: var(--teal-dark); }
+body.release_return_page .page-heading h1 { letter-spacing: -1.35px; }

@@ -1,0 +1,6 @@
+/* Page-specific styles for New borrowing request. Shared components live in ../styles.css. */
+body.new_request_page .page-heading {
+  /* Keep the page identity easy to adjust without changing shared layout. */
+}
+body.new_request_page .page-heading .eyebrow { color: var(--teal-dark); }
+body.new_request_page .page-heading h1 { letter-spacing: -1.35px; }

@@ -1,0 +1,6 @@
+/* Page-specific styles for Staff dashboard. Shared components live in ../styles.css. */
+body.staff_dashboard_page .page-heading {
+  /* Keep the page identity easy to adjust without changing shared layout. */
+}
+body.staff_dashboard_page .page-heading .eyebrow { color: var(--teal-dark); }
+body.staff_dashboard_page .page-heading h1 { letter-spacing: -1.35px; }
