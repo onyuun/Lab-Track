@@ -1,0 +1,6 @@
+/* Page-specific styles for Records and reports. Shared components live in ../styles.css. */
+body.records_reports_page .page-heading {
+  /* Keep the page identity easy to adjust without changing shared layout. */
+}
+body.records_reports_page .page-heading .eyebrow { color: var(--teal-dark); }
+body.records_reports_page .page-heading h1 { letter-spacing: -1.35px; }
